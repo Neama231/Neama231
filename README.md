@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**Neama231/Neama231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**no one is virgin life fucked us all
 <p align="center">
   <img src="https://i.pinimg.com/originals/fe/71/82/fe7182c7b7010de61b1cf6e6245c921f.gif" width="300"/>
 </p>
