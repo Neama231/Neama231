@@ -2,8 +2,18 @@
 
 <!--
 **Neama231/Neama231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fe/71/82/fe7182c7b7010de61b1cf6e6245c921f.gif" width="300"/>
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">👁️ 𝓖𝓱𝓸𝓼𝓽 𝓬𝓸𝓭𝓮 👁️</h1>
+<p align="center">
+  <i>"The code is watching..."</i>
+</p>
+
+---
+
+## ⚠️ Beware
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
