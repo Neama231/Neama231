@@ -1,9 +1,9 @@
-## Hillo Word!
+## <Hillow Hillow>
 
 <p align ="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBmZjN3Mms4cGRhbXJmdmJ3OWJwYzI3cWZ1MDA4bWIyaTlzZXFwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uZ3U85epedhe0/giphy.gif" width="900"/>
     </p>
-**no one is virgin life fucked us all
+// Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid
 <p align="center">
   <img src="https://i.pinimg.com/originals/fe/71/82/fe7182c7b7010de61b1cf6e6245c921f.gif" width="300"/>
 </p>
