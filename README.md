@@ -1,16 +1,5 @@
 ## 👻 Haunted Terminal Output
 
-// Creepy C code lurking in the shadows
-#include <stdio.h>
-#include <unistd.h>
-
-int main() {
-    while (1) {
-        printf("The code is watching...\n");
-        sleep(2);
-    }
-    return 0;
-}
 
 
 <p align ="center">
